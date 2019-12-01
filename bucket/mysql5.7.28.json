@@ -31,7 +31,7 @@
         "mysqld --initialize-insecure",
         "",
         "#Copy provided sample file to live file location",
-        "cp $dir/my-default.ini $dir/my.ini",
+        "#cp $dir/my-default.ini $dir/my.ini",
         "",
         "#Output client configuration to my.ini file so no username is required when connecting",
         "echo \"\" | out-file \"$dir/my.ini\" -Encoding UTF8 -Append",
