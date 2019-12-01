@@ -5,11 +5,12 @@
     "license": "GNU",
     "architecture": {
         "64bit": {
-            "url": "https://ja.wordpress.org/wordpress-5.3-ja.zip"
+            "url": "https://ja.wordpress.org/wordpress-5.3-ja.zip",
+            "hash": "5c1d6b0fb5a9506aa7d6f16512f7c586122bc9f49ae7a24563ffeb140460e1b1"
         },
         "32bit": {
-            "url": "https://ja.wordpress.org/wordpress-5.3-ja.zip"
+            "url": "https://ja.wordpress.org/wordpress-5.3-ja.zip",
+            "hash": "5c1d6b0fb5a9506aa7d6f16512f7c586122bc9f49ae7a24563ffeb140460e1b1"
         }
-    },
-    "extract_dir": "Wordpress5.3"
+    }
 }
