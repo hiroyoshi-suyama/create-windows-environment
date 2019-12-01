@@ -9,6 +9,7 @@
         },
         "32bit": {
             "url": "https://ja.wordpress.org/wordpress-5.3-ja.zip"
-        },
+        }
+    },
     "extract_dir": "Wordpress5.3"
 }
