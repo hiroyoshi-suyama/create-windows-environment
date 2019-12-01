@@ -1,0 +1,14 @@
+{
+    "homepage": "https://ja.wordpress.org/",
+    "description": "Wordpress install",
+    "version": "5.3",
+    "license": "GNU"
+    "architecture": {
+        "64bit": {
+            "url": "https://ja.wordpress.org/wordpress-5.3-ja.zip"
+        },
+        "32bit": {
+            "url": "https://ja.wordpress.org/wordpress-5.3-ja.zip"
+        },
+    "extract_dir": "Wordpress5.3"
+}
